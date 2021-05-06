@@ -4,7 +4,7 @@ public class EmailSend implements Member {
 
 	@Override
 	public void send(String Name) {
-		System.out.println(Name + " Adlı kişiye E mail gönderildi..");
+		System.out.println(Name + " AdlÄ± kiÅŸiye E mail gÃ¶nderildi..");
 		
 	}
 
