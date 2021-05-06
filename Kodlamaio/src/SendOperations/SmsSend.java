@@ -4,7 +4,7 @@ public class SmsSend implements Member {
 
 	@Override
 	public void send(String Name) {
-		System.out.println(Name + " Adlı kişite Sms gönderdi..");
+		System.out.println(Name + " AdlÄ± kiÅŸiye Sms gÃ¶nderdi..");
 		
 	}
 
